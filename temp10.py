@@ -11,6 +11,7 @@ class Cmputer:
 
 
 aaaaaaaaaaaaaaaaaaaa
+bbbbbbb
 
 
 class Laptop(Cmputer):
