@@ -10,10 +10,6 @@ class Cmputer:
         return self.ram+self.hard+self.cpu
 
 
-aaaaaaaaaaaaaaaaaaaa
-bbbbbbb
-
-
 class Laptop(Cmputer):
     def value(self):
         return self.ram+self.hard+self.cpu+self.size
